@@ -66,7 +66,7 @@ Es una aplicación móvil para Android diseñada para ayudar a los usuarios a ge
 - **Completar el formulario**:  
   Ingresa su nombre, correo electrónico, contraseña y confirma la contraseña.  
 - **Presionar "Registrarse"** para crear la cuenta.  
-- **Resultado**: La app (en una versión completa) lo redirige al login o a la pantalla principal.
+- **Resultado**: La app (en una versión beta) lo redirige al login o a la pantalla principal.
 
 ---
 
